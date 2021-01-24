@@ -7,6 +7,11 @@ h1 {
   color: rgb(154, 206, 70);
   text-align: center;
 }
+
+nav {
+  background-color: coral;
+}
+
 nav a {
   padding: 5px 10px;
   text-decoration: none;
@@ -14,6 +19,7 @@ nav a {
   display: inline-block;
   background-color: #eee;
   border-radius: 4px;
+
 }
 nav a:visited, a:link {
   color: #334953;
