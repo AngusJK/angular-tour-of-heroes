@@ -1,7 +1,11 @@
 /* AppComponent's private CSS styles */
 h1 {
-  font-size: 1.2em;
+  font-size: 6em;
+  font-family: fantasy;
   margin-bottom: 0;
+  background-color: rgb(133, 81, 2);
+  color: rgb(154, 206, 70);
+  text-align: center;
 }
 nav a {
   padding: 5px 10px;
